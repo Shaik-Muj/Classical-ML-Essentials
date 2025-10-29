@@ -19,7 +19,7 @@ Each notebook is structured for clarity, interview readiness, and practical impl
   Feature selection via SelectKBest and RFE.  
   Hyperparameter tuning using GridSearchCV and RandomizedSearchCV.
 
-- ** 04_Regression **  
+- **04_Regression**  
   Will include Linear Regression, Ridge, Lasso, and tree-based regressors with MSE, RMSE, and R² evaluation.
 
 ## Tech Stack
